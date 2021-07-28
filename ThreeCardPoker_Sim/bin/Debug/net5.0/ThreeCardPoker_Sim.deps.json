@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ThreeCardPoker_Sim/1.0.0": {
+        "runtime": {
+          "ThreeCardPoker_Sim.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThreeCardPoker_Sim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

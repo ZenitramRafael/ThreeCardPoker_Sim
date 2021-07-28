@@ -1,0 +1,16 @@
+C:\Users\zenit\OneDrive\Documents\GitHub\ThreeCardPoker_Sim\ThreeCardPoker_Sim\bin\Debug\net5.0\ThreeCardPoker_Sim.exe
+C:\Users\zenit\OneDrive\Documents\GitHub\ThreeCardPoker_Sim\ThreeCardPoker_Sim\bin\Debug\net5.0\ThreeCardPoker_Sim.deps.json
+C:\Users\zenit\OneDrive\Documents\GitHub\ThreeCardPoker_Sim\ThreeCardPoker_Sim\bin\Debug\net5.0\ThreeCardPoker_Sim.runtimeconfig.json
+C:\Users\zenit\OneDrive\Documents\GitHub\ThreeCardPoker_Sim\ThreeCardPoker_Sim\bin\Debug\net5.0\ThreeCardPoker_Sim.runtimeconfig.dev.json
+C:\Users\zenit\OneDrive\Documents\GitHub\ThreeCardPoker_Sim\ThreeCardPoker_Sim\bin\Debug\net5.0\ThreeCardPoker_Sim.dll
+C:\Users\zenit\OneDrive\Documents\GitHub\ThreeCardPoker_Sim\ThreeCardPoker_Sim\bin\Debug\net5.0\ref\ThreeCardPoker_Sim.dll
+C:\Users\zenit\OneDrive\Documents\GitHub\ThreeCardPoker_Sim\ThreeCardPoker_Sim\bin\Debug\net5.0\ThreeCardPoker_Sim.pdb
+C:\Users\zenit\OneDrive\Documents\GitHub\ThreeCardPoker_Sim\ThreeCardPoker_Sim\obj\Debug\net5.0\ThreeCardPoker_Sim.csproj.AssemblyReference.cache
+C:\Users\zenit\OneDrive\Documents\GitHub\ThreeCardPoker_Sim\ThreeCardPoker_Sim\obj\Debug\net5.0\ThreeCardPoker_Sim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zenit\OneDrive\Documents\GitHub\ThreeCardPoker_Sim\ThreeCardPoker_Sim\obj\Debug\net5.0\ThreeCardPoker_Sim.AssemblyInfoInputs.cache
+C:\Users\zenit\OneDrive\Documents\GitHub\ThreeCardPoker_Sim\ThreeCardPoker_Sim\obj\Debug\net5.0\ThreeCardPoker_Sim.AssemblyInfo.cs
+C:\Users\zenit\OneDrive\Documents\GitHub\ThreeCardPoker_Sim\ThreeCardPoker_Sim\obj\Debug\net5.0\ThreeCardPoker_Sim.csproj.CoreCompileInputs.cache
+C:\Users\zenit\OneDrive\Documents\GitHub\ThreeCardPoker_Sim\ThreeCardPoker_Sim\obj\Debug\net5.0\ThreeCardPoker_Sim.dll
+C:\Users\zenit\OneDrive\Documents\GitHub\ThreeCardPoker_Sim\ThreeCardPoker_Sim\obj\Debug\net5.0\ref\ThreeCardPoker_Sim.dll
+C:\Users\zenit\OneDrive\Documents\GitHub\ThreeCardPoker_Sim\ThreeCardPoker_Sim\obj\Debug\net5.0\ThreeCardPoker_Sim.pdb
+C:\Users\zenit\OneDrive\Documents\GitHub\ThreeCardPoker_Sim\ThreeCardPoker_Sim\obj\Debug\net5.0\ThreeCardPoker_Sim.genruntimeconfig.cache
