@@ -9,12 +9,14 @@ namespace ThreeCardPoker_Sim
 {
     class RunSim
     {
-        void PlayGame()
+        public static void PlayGame()
         {
-            int cardNo = 4;
-            List<ICard> cards = Deck.ReturnAllCards();
-            Console.WriteLine("RunSim");
-            Console.WriteLine("The {} card is {}", cardNo, cards[cardNo]);
+            //int cardNo = 0;
+            //List<ICard> cards = Deck.ReturnAllCards();
+            //Console.WriteLine("RunSim");
+            //Console.WriteLine("The {0} card is the {1} of {2}", cardNo, cards[cardNo].number, cards[cardNo].suit);
+
+
         }
     }
 }

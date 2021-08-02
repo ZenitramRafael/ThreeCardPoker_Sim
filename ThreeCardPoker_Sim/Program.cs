@@ -7,6 +7,7 @@ namespace ThreeCardPoker_Sim
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            RunSim.PlayGame();
         }
     }
 }

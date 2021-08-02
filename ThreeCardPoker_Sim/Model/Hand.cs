@@ -6,9 +6,13 @@ using System.Threading.Tasks;
 
 namespace ThreeCardPoker_Sim.Model
 {
-    public class Card : ICard
+    public class Hand
     {
-        public Number number { get; set; }
-        public Suit suit { get; set; }
+
+
+        public Hand(ICard card1, ICard card2, ICard card3)
+        {
+
+        }
     }
 }
